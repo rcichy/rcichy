@@ -11,4 +11,4 @@ I build backend systems end to end: Django and DRF services, PostgreSQL data mod
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+[LinkedIn](https://www.linkedin.com/in/radek-cichy/)
